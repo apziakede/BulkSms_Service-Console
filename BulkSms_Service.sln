@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSms_Service", "BulkSms_Service.csproj", "{1A95FCE8-C336-409D-BE49-EF25E4C9E54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A95FCE8-C336-409D-BE49-EF25E4C9E54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A95FCE8-C336-409D-BE49-EF25E4C9E54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A95FCE8-C336-409D-BE49-EF25E4C9E54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A95FCE8-C336-409D-BE49-EF25E4C9E54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {291350BA-98EA-4BBB-9B18-C583F2C914DB}
+	EndGlobalSection
+EndGlobal
